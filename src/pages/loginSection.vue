@@ -55,8 +55,7 @@
   height: 220px;
 }
 .login-contain-title{
-  width: 100%;
-  margin-left: 24px;
+  width: 342px;
   display: flex;
   justify-content: start;
 }
@@ -107,7 +106,7 @@ input[type=password]{
   color: #6A7D488A;
 }
 .login-contain-forgetPassword{
-  width: 100%;
+  width: 342px;
   margin: 13px 24px 0px 24px ;
 }
 .login-contain-forgetPassword_text{
